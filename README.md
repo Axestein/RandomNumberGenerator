@@ -9,3 +9,6 @@ Currently, two official plugins are available:
 
 THIS WAS MY FIRST PROJECT WITH REACT AND VITE I ASLO ADDED TAILWIND CSS TO THIS 
 ![Screenshot 2024-06-11 190120](https://github.com/Axestein/RandomNumberGenerator/assets/142435507/c1cd35f0-8497-442d-b9c3-25f97dde03af)
+![Screenshot 2024-06-11 190258](https://github.com/Axestein/RandomNumberGenerator/assets/142435507/604ec44e-2072-4353-98a1-48aecb4b5a75)
+
+
